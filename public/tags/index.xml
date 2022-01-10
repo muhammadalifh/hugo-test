@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Nov 2021 15:46:51 +0700</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Thu, 04 Nov 2021 15:46:51 +0700</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Rating</title>
+      <link>http://example.org/tags/image-rating/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:05 +0700</pubDate>
+      
+      <guid>http://example.org/tags/image-rating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>http://example.org/tags/interview/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:05 +0700</pubDate>
+      
+      <guid>http://example.org/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photographer</title>
+      <link>http://example.org/tags/photographer/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:05 +0700</pubDate>
+      
+      <guid>http://example.org/tags/photographer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://example.org/tags/photography/</link>
+      <pubDate>Thu, 04 Nov 2021 13:52:05 +0700</pubDate>
+      
+      <guid>http://example.org/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flights</title>
+      <link>http://example.org/tags/flights/</link>
+      <pubDate>Wed, 03 Nov 2021 23:51:20 +0700</pubDate>
+      
+      <guid>http://example.org/tags/flights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get Inspired</title>
+      <link>http://example.org/tags/get-inspired/</link>
+      <pubDate>Wed, 03 Nov 2021 23:51:20 +0700</pubDate>
+      
+      <guid>http://example.org/tags/get-inspired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://example.org/tags/travel/</link>
+      <pubDate>Wed, 03 Nov 2021 23:51:20 +0700</pubDate>
+      
+      <guid>http://example.org/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
